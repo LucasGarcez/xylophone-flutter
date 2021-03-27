@@ -7,7 +7,7 @@
  -->
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="testing_app"
+        android:label="appbrewery"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
